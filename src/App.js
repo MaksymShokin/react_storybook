@@ -22,6 +22,6 @@ function App() {
   );
 }
 
-//
+//npm sb init
 
 export default App;
