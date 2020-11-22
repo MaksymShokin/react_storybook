@@ -1,5 +1,5 @@
 import React from 'react';
-import classes from './button.module.css'
+import classes from './button.module.css';
 
 const Button = ({ variant = 'Primary', children, ...rest }) => {
   return (
